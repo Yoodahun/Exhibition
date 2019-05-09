@@ -1,4 +1,5 @@
 # Exhibition
+
 This is my own work that Photo gallery. I use Design Template for photography and support auto layout
 
 https://exhibition-yoo.herokuapp.com/
@@ -15,9 +16,29 @@ https://exhibition-yoo.herokuapp.com/
 
 - デザインはテンプレートを使用
 
-  ###### 趣味が写真であり、Instagramの他に、Portfolioとして使うため作成しました。S3をFree tierで使用するためか、写真が多くなると接続とローディングに時間がかかります。
-
-
+  > 趣味が写真であり、Instagramの他に、Portfolioとして使うため作成しました。
+  >
+  > S3をFree tierで使用するためか、写真が多くなると接続とRefreshに時間がかかります。
+  
+  ![](./image/image2.png)
+  
+  写真のSlide showで感想可能な機能
+  
+  ![](image/image3.png)
+  
+  プロフィールのためのサイドバー実装
+  
+  ![](image/image4.png)
+  
+  イメージにタグをつけてアップロードできる簡単な掲示板実装（CRUD）
+  
+  ![](image/image5.png)
+  
+  ポスト管理機能
+  
+  ![](image/image6.png)
+  
+  ポスト管理のためのページング機能
 
 #### 使用した技術
 
